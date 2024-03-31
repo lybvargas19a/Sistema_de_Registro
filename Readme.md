@@ -12,7 +12,6 @@
    <p align="center">
    <img src="https://img.shields.io/badge/Pruebas_Luis-Eduardo-orange">
    </p>
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ### Índice
 
@@ -58,6 +57,23 @@ O sistema permitirá o monitoramento diário, contínuo e remoto do nível de gl
 
 ## Acceso al proyecto
 
+![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
+## Tecnologías utilizadas
 
+- - DE TODO UN POQUITO¡
+
+## Personas Contribuyentes
+
+- - Alura ONE
+
+## Licencia
+
+- - Licencia para matar
+ 
+
+## Conclusión
+
+- - Estoy Aprendiendo
+  - 
