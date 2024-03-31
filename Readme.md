@@ -39,7 +39,7 @@
 
  Para ejecutar el sistema, debes colocar;
 
- ´´npm install react´´
+ ```npm install react```
  
  Projeto em desenvolvimento para disciplina Instrumentação Biomédica II do curso de Engenharia Biomédica. O GlicoCare é um sistema de telemonitoramento domiciliar para a atenção especializada de pessoas acometidas por diabetes mellitus.
 
