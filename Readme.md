@@ -1,6 +1,5 @@
 <h1>Sistema de registro</h1>
 
-- Estado del proyecto En Costruccion
 
 ##Índice
 
@@ -26,6 +25,8 @@
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
 [Estado del proyecto](#Estado-del-proyecto)
+
+- Estado del proyecto En Costruccion
 
 [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
