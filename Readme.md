@@ -7,7 +7,7 @@
 
 [Insignias](#insignias)
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
 ![Static Badge](https://img.shields.io/badge/Pruebas_Luis-Eduardo-green)
    <p align="center">
    <img src="https://img.shields.io/badge/Pruebas_Luis-Eduardo-orange">
@@ -44,12 +44,20 @@ O sistema permitirá o monitoramento diário, contínuo e remoto do nível de gl
 ![Descrição do projeto GlicoCare, onde se tem um paciente medindo glicose com um glicosímetro, conectado via Bluetooth ao aplicativo que o profissional da saúde tem acesso.](https://user-images.githubusercontent.com/37356058/132422764-5a4e5300-7b04-4411-9126-387a445bc627.png)
 </p>
 
+## Estado del proyecto
 
+- Estado del proyecto En Costruccion
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
+## Características de la aplicación y demostración
 
 - `Funcionalidad 1`: descripción de la funcionalidad 1
 - `Funcionalidad 2`: descripción de la funcionalidad 2
 - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
-- Estado del proyecto En Costruccion
+## Acceso al proyecto
+
+
+
+
