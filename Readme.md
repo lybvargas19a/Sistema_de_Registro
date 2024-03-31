@@ -59,7 +59,6 @@ O sistema permitirá o monitoramento diário, contínuo e remoto do nível de gl
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-
 ## Tecnologías utilizadas
 
 - - DE TODO UN POQUITO¡
@@ -68,12 +67,14 @@ O sistema permitirá o monitoramento diário, contínuo e remoto do nível de gl
 
 - - Alura ONE
 
+## Personas-Desarrolladores del Proyecto
+
+- - LEVS
+
 ## Licencia
 
 - - Licencia para matar
- 
 
 ## Conclusión
 
 - - Estoy Aprendiendo
-  - 
