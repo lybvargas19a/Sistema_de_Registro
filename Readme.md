@@ -1,10 +1,11 @@
 <h1>Sistema de registro</h1>
 
-- Estgado del proyecto En Costruccion
+- Estado del proyecto En Costruccion
 
 Índice
 
 [Título e imagen de portada](#Título-e-imagen-de-portada)
+
 
 [Insignias](#insignias)
 
