@@ -9,14 +9,12 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 ![Static Badge](https://img.shields.io/badge/Pruebas_Luis-Eduardo-green)
-
    <p align="center">
    <img src="https://img.shields.io/badge/Pruebas_Luis-Eduardo-orange">
    </p>
-
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-[Índice](###índice)
+### Índice
 
 - [Descripción del proyecto](#descripción-del-proyecto)
 
@@ -36,8 +34,7 @@
 
 - [Conclusión](#conclusión)
 
-
-## Descripcion del proyecto 
+## Descripción del proyecto
 
 <p align="justify">
  Projeto em desenvolvimento para disciplina Instrumentação Biomédica II do curso de Engenharia Biomédica. O GlicoCare é um sistema de telemonitoramento domiciliar para a atenção especializada de pessoas acometidas por diabetes mellitus.
