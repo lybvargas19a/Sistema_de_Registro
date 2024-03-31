@@ -4,7 +4,7 @@
 [Título e imagen de portada](#Título-e-imagen-de-portada)
 
 <h1>Sistema de registro</h1>
-![descripción de la imágen](URL de la imagen generada por el servicio de alojamiento o GitHub)
+![descripción de la imágen](https://user-images.githubusercontent.com/37356058/131255528-265f5bca-609f-45e8-a574-b77b8d542381.png#vitrinedev)
 
 [Insignias](#insignias)
 
