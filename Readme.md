@@ -57,6 +57,7 @@ O sistema permitirá o monitoramento diário, contínuo e remoto do nível de gl
 
 ## Acceso al proyecto
 
+- Todo el mundo
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 ## Tecnologías utilizadas
