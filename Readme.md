@@ -1,9 +1,10 @@
-<h1>Sistema de registro</h1>
 
 
-##Índice
 
 [Título e imagen de portada](#Título-e-imagen-de-portada)
+
+<h1>Sistema de registro</h1>
+![descripción de la imágen](URL de la imagen generada por el servicio de alojamiento o GitHub)
 
 [Insignias](#insignias)
 
