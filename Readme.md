@@ -55,7 +55,7 @@ O sistema permitirá o monitoramento diário, contínuo e remoto do nível de gl
 - `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
 - `Funcionalidad 3`: descripción de la funcionalidad 3
 
-## Acceso al proyecto
+## Acceso proyecto
 
 - Todo el mundo
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
