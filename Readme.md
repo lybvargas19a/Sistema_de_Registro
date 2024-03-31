@@ -8,14 +8,15 @@
 [Insignias](#insignias)
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Static Badge](https://img.shields.io/badge/Pruebas_Luis-Eduardo-green)
 
    <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/Pruebas_Luis-Eduardo-orange">
    </p>
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-[Índice](#índice)
+[Índice](###índice)
 
 - [Descripción del proyecto](#descripción-del-proyecto)
 
